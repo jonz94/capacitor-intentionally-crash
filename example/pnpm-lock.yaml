@@ -17,6 +17,7 @@ specifiers:
   '@angular/platform-browser': ^14.0.4
   '@angular/platform-browser-dynamic': ^14.0.4
   '@angular/router': ^14.0.4
+  '@capacitor/android': ^3.6.0
   '@capacitor/cli': ^3.6.0
   '@capacitor/core': ^3.6.0
   '@capacitor/ios': ^3.6.0
@@ -49,6 +50,7 @@ dependencies:
   '@angular/platform-browser': 14.0.4_dlknla4px5bb7eqrkxhyt3sbqy
   '@angular/platform-browser-dynamic': 14.0.4_oeidzb2ikpd7hxiwao6wqndxim
   '@angular/router': 14.0.4_z554obbbjbaxl2adlugwuvyrpe
+  '@capacitor/android': 3.6.0_@capacitor+core@3.6.0
   '@capacitor/core': 3.6.0
   '@capacitor/ios': 3.6.0_@capacitor+core@3.6.0
   '@ionic/angular': 6.1.12_ljxu562ajyqberc5oty74ccwfe
@@ -1743,6 +1745,14 @@ packages:
       '@babel/helper-validator-identifier': 7.18.6
       to-fast-properties: 2.0.0
     dev: true
+
+  /@capacitor/android/3.6.0_@capacitor+core@3.6.0:
+    resolution: {integrity: sha512-X6n0OLy7BE3c6qfVuL7UYyq/aIwEsqIAqtyDOwMdj5k+P1rLQVsGaWERXUtC0BGeoKBD5YgbWiyKwAwg5Spjdg==}
+    peerDependencies:
+      '@capacitor/core': ^3.6.0
+    dependencies:
+      '@capacitor/core': 3.6.0
+    dev: false
 
   /@capacitor/cli/3.6.0:
     resolution: {integrity: sha512-YNQNM1wvy3zJkKNWcNL5KzIqgV5J1YzO27MHSxZyVA6+XmWCZi8Qz/Cq/uDrepsuBG67QdIvtOeL+JnXARedfw==}

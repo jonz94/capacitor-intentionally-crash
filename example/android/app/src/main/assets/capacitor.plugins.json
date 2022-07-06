@@ -1,0 +1,6 @@
+[
+	{
+		"pkg": "@jonz94/capacitor-intentionally-crash",
+		"classpath": "dev.jonz94.capacitorjs.plugins.intentionallycrash.IntentionallyCrashPlugin"
+	}
+]
