@@ -1,0 +1,8 @@
+*.md
+.angular/
+android/
+example/
+ios/
+www/
+src/polyfills.ts
+pnpm-lock.yaml
