@@ -19,6 +19,7 @@ specifiers:
   '@angular/router': ^14.0.4
   '@capacitor/cli': ^3.6.0
   '@capacitor/core': ^3.6.0
+  '@capacitor/ios': ^3.6.0
   '@ionic/angular': ^6.1.12
   '@ionic/angular-toolkit': ^6.1.0
   '@jonz94/capacitor-intentionally-crash': link:..
@@ -49,6 +50,7 @@ dependencies:
   '@angular/platform-browser-dynamic': 14.0.4_oeidzb2ikpd7hxiwao6wqndxim
   '@angular/router': 14.0.4_z554obbbjbaxl2adlugwuvyrpe
   '@capacitor/core': 3.6.0
+  '@capacitor/ios': 3.6.0_@capacitor+core@3.6.0
   '@ionic/angular': 6.1.12_ljxu562ajyqberc5oty74ccwfe
   rxjs: 7.5.5
   tslib: 2.4.0
@@ -1771,6 +1773,14 @@ packages:
     resolution: {integrity: sha512-F94ozABHXxq1xMcNGMnOVP73WZDWYR1PrJEfVfl9Ja0BXGEJURIxmHBc842OX3rrt3+g0ELHyhX9LTH16eeonw==}
     dependencies:
       tslib: 2.4.0
+
+  /@capacitor/ios/3.6.0_@capacitor+core@3.6.0:
+    resolution: {integrity: sha512-clauOkPj24COpAi1eIHSgi4OENIwuI8P6WKkfn3HVRX2lUPWyxczHTtg64inwECABy3zJdxnnwBHeok3bpoSCg==}
+    peerDependencies:
+      '@capacitor/core': ^3.6.0
+    dependencies:
+      '@capacitor/core': 3.6.0
+    dev: false
 
   /@csstools/postcss-color-function/1.1.0_postcss@8.4.13:
     resolution: {integrity: sha512-5D5ND/mZWcQoSfYnSPsXtuiFxhzmhxt6pcjrFLJyldj+p0ZN2vvRpYNX+lahFTtMhAYOa2WmkdGINr0yP0CvGA==}

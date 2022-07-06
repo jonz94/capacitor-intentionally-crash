@@ -1,0 +1,6 @@
+{
+	"appId": "dev.jonz94.capacitorjs.plugins.intentionallycrash.example",
+	"appName": "capacitor intentionally crash example",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

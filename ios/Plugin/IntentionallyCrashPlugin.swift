@@ -8,6 +8,8 @@ import Capacitor
 @objc(IntentionallyCrashPlugin)
 public class IntentionallyCrashPlugin: CAPPlugin {
     @objc func crash(_ call: CAPPluginCall) {
+        let a = [0]
+        var _ = a[1]
         call.resolve()
     }
 }
