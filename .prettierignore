@@ -3,4 +3,4 @@ android/
 dist/
 example/
 ios/
-package-lock.json
+pnpm-lock.yaml
