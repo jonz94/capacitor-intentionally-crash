@@ -1,0 +1,6 @@
+*.md
+android/
+dist/
+example/
+ios/
+package-lock.json
