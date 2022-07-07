@@ -19,6 +19,7 @@
     "@capacitor/core": "^3.6.0",
     "@capacitor/ios": "^3.6.0",
     "@ionic/angular": "^6.1.12",
+    "@jonz94/capacitor-intentionally-crash": "link:..",
     "rxjs": "^7.5.5",
     "tslib": "^2.4.0",
     "zone.js": "~0.11.6"
@@ -36,7 +37,6 @@
     "@angular/language-service": "^14.0.4",
     "@capacitor/cli": "^3.6.0",
     "@ionic/angular-toolkit": "^6.1.0",
-    "@jonz94/capacitor-intentionally-crash": "link:..",
     "@types/node": "^16.11.43",
     "@types/prettier": "^2.6.3",
     "@typescript-eslint/eslint-plugin": "^5.30.5",
