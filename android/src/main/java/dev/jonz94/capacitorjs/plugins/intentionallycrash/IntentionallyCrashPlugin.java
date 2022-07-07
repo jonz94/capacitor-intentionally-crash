@@ -9,9 +9,7 @@ import com.getcapacitor.annotation.CapacitorPlugin;
 public class IntentionallyCrashPlugin extends Plugin {
 
     @PluginMethod
-    public void crash(PluginCall call) {
-        String str = null;
-        str.length();
-        call.resolve();
+    public void crash(PluginCall call) throws Exception {
+        throw new Exception();
     }
 }
