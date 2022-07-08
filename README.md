@@ -9,6 +9,24 @@ npm install @jonz94/capacitor-intentionally-crash
 npx cap sync
 ```
 
+## Demo
+
+A working example can be found in [example directory](./example) of this repository.
+
+## Configuration
+
+No configuration required for this plugin.
+
+## Usage
+
+```typescript
+import { IntentionallyCrash } from '@jonz94/capacitor-intentionally-crash';
+
+const makeAppCrash = async () => {
+  await IntentionallyCrash.crash();
+};
+```
+
 ## API
 
 <docgen-index>
