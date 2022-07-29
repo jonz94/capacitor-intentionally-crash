@@ -6,7 +6,7 @@ specifiers:
   '@capacitor/docgen': ^0.2.0
   '@capacitor/ios': ^3.6.0
   '@ionic/swiftlint-config': ^1.1.2
-  '@types/prettier': ^2.6.3
+  '@types/prettier': ^2.6.4
   '@typescript-eslint/eslint-plugin': ^5.31.0
   '@typescript-eslint/parser': ^5.31.0
   eslint: ^8.19.0
@@ -26,7 +26,7 @@ devDependencies:
   '@capacitor/docgen': 0.2.0
   '@capacitor/ios': 3.6.0_@capacitor+core@3.6.0
   '@ionic/swiftlint-config': 1.1.2
-  '@types/prettier': 2.6.3
+  '@types/prettier': 2.6.4
   '@typescript-eslint/eslint-plugin': 5.31.0_bao7xq2p45jpdplvjvt3gxqp3m
   '@typescript-eslint/parser': 5.31.0_4x5o4skxv6sl53vpwefgt23khm
   eslint: 8.19.0
@@ -280,8 +280,8 @@ packages:
     resolution: {integrity: sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==}
     dev: true
 
-  /@types/prettier/2.6.3:
-    resolution: {integrity: sha512-ymZk3LEC/fsut+/Q5qejp6R9O1rMxz3XaRHDV6kX8MrGAhOSPqVARbDi+EZvInBpw+BnCX3TD240byVkOfQsHg==}
+  /@types/prettier/2.6.4:
+    resolution: {integrity: sha512-fOwvpvQYStpb/zHMx0Cauwywu9yLDmzWiiQBC7gJyq5tYLUXFZvDG7VK1B7WBxxjBJNKFOZ0zLoOQn8vmATbhw==}
     dev: true
 
   /@types/slice-ansi/4.0.0:
